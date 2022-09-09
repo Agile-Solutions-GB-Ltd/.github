@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-<!--
+Some examples of the DevOps platforms and services we use at Agile Solutions:
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-Welcome to the Agile Solutions GB Ltd. projects.
+| **Platoform/Service**                      | **Layer**                | **Comments**                                                                   |
+|--------------------------------------------|--------------------------|--------------------------------------------------------------------------------|
+| AWS/Azure/VMWARE                           | CLOUD                    | A flexbile combination of cloud vendors and services.                          |
+| Azure DevOps/GitHub Actions/GoCD/Jenkins   | CICD                     | Build, release and delivery of plaforms and services using standard solutions. |
+| SonarQube/CodeQL                           | QA                       | Best industry standard QA and security tools.                                  |
+| Artifactory/Nexus                          | Repositories             | Easy to use repository solutions as part of the release process.               |
+| Terraform/Ansible                          | Provisioning             | Industry standard provisioning and configuration management applications.      |
