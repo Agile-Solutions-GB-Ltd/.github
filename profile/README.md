@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Agile Solutions automation project location.
+Agile Solutions automation projects location.
